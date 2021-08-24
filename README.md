@@ -3,7 +3,7 @@
 ### Date created
 Auguste 23 2021
 
-### Python Bike Share Project
+### Project: Bike Share Data with Python
 
 ### Description
 This project is for analyzing bike share data in Washington, New York City and Chicago. This python program will help you uncover bike share usage patterns in different time frames.
