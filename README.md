@@ -6,7 +6,7 @@ Auguste 23 2021
 ### Python Bike Share Project
 
 ### Description
-This project is for analyzing bike share data in washington, new york city and chicago. This python program will help you uncover bike share usage patterns in different time frames.
+This project is for analyzing bike share data in Washington, New York City and Chicago. This python program will help you uncover bike share usage patterns in different time frames.
 
 ### Files used
 washington.csv
@@ -15,4 +15,4 @@ new_york_city.csv
 bikeshare.py
 
 ### Credits
-I want to give my gratitud to Juno at Udacity for teaching me all the nessary skills to complete this project and more. I encorage everybody to take Udacity courses to learn to do exiting projects like this one.
+I want to give my gratitud to Juno at Udacity for teaching me all the necessary skills to complete this project and more. I encourage everybody to take Udacity courses to learn to do exiting projects like this one.
